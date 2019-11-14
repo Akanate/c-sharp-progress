@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-namespace Class1
+namespace Program
 {
     class Program
     {
